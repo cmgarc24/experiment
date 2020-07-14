@@ -1,2 +1,3 @@
 # cmgarc24.github.io
-portfolio
+This website serves as a portfolio to highlight projects I have worked on
+
